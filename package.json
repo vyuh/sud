@@ -1,7 +1,7 @@
 {
-  "name": "su-do-ku-js",
-  "version": "0.0.0",
-  "description": "\"A fast sudoku generator/solver.\"",
+  "name": "sud",
+  "version": "0.1.0",
+  "description": "\"A sudoku generator/solver.\"",
   "main": "sud.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
