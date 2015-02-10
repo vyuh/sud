@@ -1,0 +1,17 @@
+{
+  "name": "su-do-ku-js",
+  "version": "0.0.0",
+  "description": "\"A fast sudoku generator/solver.\"",
+  "main": "sud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sudoku",
+    "generate",
+    "solve",
+    "list"
+  ],
+  "author": "Prashant Karmakar <webster15july@gmail.com>",
+  "license": "ISC"
+}
