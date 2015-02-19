@@ -12,6 +12,10 @@
     "solve",
     "list"
   ],
-  "author": "Prashant Karmakar <webster15july@gmail.com>",
-  "license": "ISC"
+  "author": {
+    "name": "Prashant Karmakar",
+    "email": "webster15july@gmail.com"
+  },
+  "license": "ISC",
+  "readmeFilename": "README.md",
 }
