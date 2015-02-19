@@ -1,5 +1,5 @@
-su-do-ku-js
-===========
+sud
+===
 
 Generate or solve Sudoku puzzles.
 
