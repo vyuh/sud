@@ -1,7 +1,7 @@
 {
   "name": "sud",
   "version": "0.1.0",
-  "description": "\"A sudoku generator/solver.\"",
+  "description": "A sudoku generator/solver.",
   "main": "sud.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,4 +18,8 @@
   },
   "license": "ISC",
   "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vyuh/sud.git"
+  }
 }
