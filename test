@@ -1,0 +1,6 @@
+var sud = require("./sud");
+var po = sud.iter(0,3);
+console.log(JSON.stringify(po.next(), null, 4));
+console.log(JSON.stringify(po.next(), null, 4));
+console.log(JSON.stringify(sud.list(5,4), null, 4));
+
