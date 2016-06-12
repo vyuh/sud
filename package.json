@@ -1,6 +1,6 @@
 {
   "name": "sud",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "A sudoku generator/solver.",
   "main": "sud.js",
   "scripts": {
