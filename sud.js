@@ -1,4 +1,4 @@
-//'use strict';
+'use strict';
 
 //WOAH https://gist.github.com/ryanflorence/1198466
 (function (name, definition){
@@ -145,7 +145,7 @@
             this.i_v[i] = new cell(inp.charAt(i))
         }
         for (; i < 81; i += 1) this.i_v[i] = new cell()
-        arguments.callee.__out__ = []
+        sud.__out__ = []
     }
     sud.prototype.copyIn = function (t) {
         this.left = t.left;
